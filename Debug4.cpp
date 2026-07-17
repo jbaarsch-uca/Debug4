@@ -6,9 +6,7 @@ using namespace std;
 
 // 1 Get the program to compile by fixing some of the Preprocessor Directives
 //  2. The SuperIntArray Change function doesn't make sense (though it does follow instructions).  Fix it so it makes sense.
-
-
-
+// 3.  The getNumOfNums function is also disfunctional.  Fix it.
 
 
 int main()
